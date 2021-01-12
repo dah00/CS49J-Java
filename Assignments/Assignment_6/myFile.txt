@@ -1,0 +1,15 @@
+Appointment type: Onetime
+Date: 2019-10-03
+Description: onetime counseling 
+
+
+Appointment type: Daily
+Date: 2019-12-30
+Description: Daily counseling 
+
+
+Appointment type: Monthly
+Date: 2019-10-01
+Description: Monthly counseling 
+
+
