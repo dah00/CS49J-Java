@@ -7,6 +7,12 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Generics" />
+    <orderEntry type="module" module-name="Assignment_8" />
+    <orderEntry type="module" module-name="Assignment_5" />
+    <orderEntry type="module" module-name="Assignment_6" />
+    <orderEntry type="module" module-name="Assignments" />
+    <orderEntry type="module" module-name="Assignment_9" />
+    <orderEntry type="module" module-name="Assignment_10" />
   </component>
 </module>
-
